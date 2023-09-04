@@ -1,0 +1,22 @@
+/******** PISOCOLA ********/
+
+CONECTIVIDADE:
+
+- O sistema foi desenvolvido fazendo a utilização de um banco de dados MySQL local.
+
+- Para seu funcionamento, deve-se fazer a configuração de connexão do sistema no arquivo MySqlConnectionConfig.cs no seguinte diretório:
+
+- Pisocola\Pisocola\com\conn\MySqlConnectionConfig.cs
+
+- No diretório onde se enctontra este arquivo de manual, também pode-se consulta uma ilustração da classe de conexão MySqlConnectionConfig no arquivo DataBaseConfig.PNG
+
+
+BASE DE DADOS:
+
+- Também será necessário rodar os scripts para criação de tabelas essenciais e para populá-las.
+
+- Esses scripts estarão disponíves neste mesmo diretório com o nome de pisocola-dump.sql. 
+
+IMPORTAÇÃO:
+
+Um arquivo com o modelo de importação de clientes está disponível neste diretório com o nome de arquivo-modelo.

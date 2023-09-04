@@ -1,0 +1,54 @@
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe.config
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.pdb
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csprojAssemblyReference.cache
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Initial_Menu.resources
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Properties.Resources.resources
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.GenerateResource.cache
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CoreCompileInputs.cache
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.exe
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.pdb
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\MySql.Data.dll
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\Google.Protobuf.dll
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\Renci.SshNet.dll
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\BouncyCastle.Crypto.dll
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\bin\Debug\MySql.Data.xml
+K:\Projetos C#\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CopyComplete
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe.config
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.pdb
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\MySql.Data.dll
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Google.Protobuf.dll
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Renci.SshNet.dll
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\BouncyCastle.Crypto.dll
+K:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\MySql.Data.xml
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csprojAssemblyReference.cache
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Initial_Menu.resources
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Properties.Resources.resources
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.GenerateResource.cache
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CoreCompileInputs.cache
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CopyComplete
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.exe
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.pdb
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Consult_Customer.resources
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_New_Customer.resources
+K:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Import_Customer.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe.config
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.exe
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Pisocola.pdb
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Google.Protobuf.dll
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\Renci.SshNet.dll
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\Pisocola\Pisocola\Pisocola\bin\Debug\MySql.Data.xml
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.AssemblyReference.cache
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Consult_Customer.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Import_Customer.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_Initial_Menu.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Frm_New_Customer.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.Properties.Resources.resources
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.GenerateResource.cache
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CoreCompileInputs.cache
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.csproj.CopyComplete
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.exe
+D:\GitHub\Pisocola\Pisocola\Pisocola\obj\Debug\Pisocola.pdb
